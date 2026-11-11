@@ -7,7 +7,8 @@
   - Python
   
 - Languages I'm learning:
-  - C# (for Unity), Lua
+  - C# (for Unity)
+  - Lua
   
 - Contacting me:
   - **Discord:** deckimax
