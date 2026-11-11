@@ -4,15 +4,12 @@ Hobby developer, mostly making homebrew and ports for the **PS Vita** and buildi
 
 - Languages I know:
   - C++
-
-- Languages I know enough:
+- Languages I can work with:
   - C
   - Python
-  
 - Languages I'm learning:
   - C# (for Unity)
   - Lua
-  
-- Contacting me:
+- Contact me:
   - **Discord:** deckimax
-  - **Twitter:** DrDecki
+  - **Twitter:** [@DrDecki](https://x.com/DrDecki)
