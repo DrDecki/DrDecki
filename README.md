@@ -1,9 +1,12 @@
 # DrDecki :)
 
-Hobby developer from Germany, mostly making homebrew and ports for the **PS Vita** and building my own small games.
+Hobby developer, mostly making homebrew and ports for the **PS Vita** and building my own small games.
 
 - Languages I know:
   - C++
+
+- Languages I know enough:
+  - C
   - Python
   
 - Languages I'm learning:
